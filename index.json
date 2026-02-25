@@ -1,38 +1,38 @@
-[
-  {
-    "name": "AnimeGo",
-    "description": "Популярный сайт с огромным выбором озвучек",
-    "author": "Miru-Project",
-    "version": "1.1.0",
-    "url": "https://raw.githubusercontent.com",
-    "language": "ru",
-    "type": "video"
-  },
-  {
-    "name": "Jut.su",
-    "description": "Быстрый плеер и удобный просмотр",
-    "author": "Miru-Project",
-    "version": "1.1.0",
-    "url": "https://raw.githubusercontent.com",
-    "language": "ru",
-    "type": "video"
-  },
-  {
-    "name": "Anilibria",
-    "description": "Официальные релизы Анилибрии",
-    "author": "Miru-Project",
-    "version": "1.0.5",
-    "url": "https://raw.githubusercontent.com",
-    "language": "ru",
-    "type": "video"
-  },
-  {
-    "name": "YummyAnime",
-    "description": "Большая база аниме с разными плеерами",
-    "author": "Miru-Project",
-    "version": "1.0.2",
-    "url": "https://raw.githubusercontent.com",
-    "language": "ru",
-    "type": "video"
-  }
-]
+{
+  "name": "My Anime Repo",
+  "extensions": [
+    {
+      "id": "animego",
+      "name": "AnimeGo",
+      "description": "Популярный сайт с выбором озвучек",
+      "author": "Miru-Project",
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com",
+      "icon": "https://animego.org",
+      "language": "ru",
+      "type": "video"
+    },
+    {
+      "id": "jutsu",
+      "name": "Jut.su",
+      "description": "Быстрый плеер и удобный просмотр",
+      "author": "Miru-Project",
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com",
+      "icon": "https://jut.su",
+      "language": "ru",
+      "type": "video"
+    },
+    {
+      "id": "anilibria",
+      "name": "Anilibria",
+      "description": "Официальные релизы Анилибрии",
+      "author": "Miru-Project",
+      "version": "1.0.5",
+      "url": "https://raw.githubusercontent.com",
+      "icon": "https://www.anilibria.tv",
+      "language": "ru",
+      "type": "video"
+    }
+  ]
+}
